@@ -7,7 +7,8 @@
 - Local tests could not run because Python is not installed. Git and GitHub CLI are also unavailable on PATH, and GitHub is not connected. No local commit or push has occurred; remote repository contents and visibility remain unverified.
 - The existing GitHub Actions workflow runs unit tests on Python 3.11 without an API key. A successful hosted run remains to be verified after publishing.
 - [Tutorial draft](TUTORIAL.md) is prepared for the AppliconSoft website and includes the confirmed repository URL. The article has not been published.
-- Website CMS, GA4, and Search Console access are needed for publication and measurement. Community sharing remains pending selection of a relevant community and review of its current posting rules.
+- Website CMS, GA4, and Search Console access are needed for publication and measurement. Community sharing remains pending selection of a relevant community and review of its current posting rules.   
+- added comments on git
 
 ## Publishing steps
 
