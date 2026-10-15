@@ -1,0 +1,8 @@
+{
+  "name": "Customer Support Demo (No API Key)",
+  "steps": [
+    {"id": "greeting", "type": "template", "template": "Customer request: {{input.question}}"},
+    {"id": "label", "type": "uppercase", "text": "{{steps.greeting.output}}"},
+    {"id": "reply", "type": "template", "template": "Support workflow processed: {{steps.label.output}}"}
+  ]
+}
